@@ -1,3 +1,4 @@
+
 $red-color: #000;
 *{
     margin: 0;
@@ -8,8 +9,10 @@ $red-color: #000;
     max-width: 1200px;
    margin: auto;
 }
+
+$red-color: rgb(202, 38, 38);
 .container {
-    color:$red-color;
+    max-width: 1200px;
 }
 .input-wraper {
     background: rgba(0, 0, 0, 0.0001);
@@ -37,8 +40,6 @@ margin-bottom: 40px;
 }
 .sec-inp{
     padding: 60px 0;
-}
-.sec-task {
 }
 .task-wraper {
 max-width: 600px;
@@ -73,3 +74,5 @@ margin-bottom: 20px;
 .check{
     height: 14px;
 }
+
+

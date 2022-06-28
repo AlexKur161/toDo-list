@@ -9,7 +9,7 @@
 }
 
 .container {
-  color: #000;
+  max-width: 1200px;
 }
 
 .input-wraper {
